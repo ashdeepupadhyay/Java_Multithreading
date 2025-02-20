@@ -83,4 +83,14 @@ Thread p1 = new Thread(new Runnable() {
         t1= new Thread(obj);
      }
 }
+
+waiting queue
+executing queue
+
+new
+start
+running
+runnable
+waiting
+terminated
  */
